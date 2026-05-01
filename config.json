@@ -1,0 +1,9 @@
+{
+  "botName": "JAN BOT",
+  "prefix": "/",
+  "autoSeen": true,
+  "autoReact": true,
+  "welcome": true,
+  "scheduledThreadID": "YOUR_GROUP_OR_USER_ID_HERE",
+  "reminderMessage": "🌙 নামাজের সময় হয়েছে! (Fajr reminder)"
+}
